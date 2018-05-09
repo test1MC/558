@@ -14,7 +14,7 @@
     Title="Product A">
     <TocEntry
       Title="[%=System.LinkedTitle%]"
-      Link="/Content/Products/Product A/Article1.htm" />
+      Link="/Content/Products/Product A/a.htm" />
     <TocEntry
       Title="[%=System.LinkedTitle%]"
       Link="/Content/Products/Product A/Article2.htm" />
